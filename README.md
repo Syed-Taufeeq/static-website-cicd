@@ -1,1 +1,4 @@
-# static-website-cicd
+git init
+git add
+git commit -m "initial commit"
+git branceh
